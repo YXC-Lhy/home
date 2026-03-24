@@ -1,37 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "博客(空)",
+    "link": ""
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "http://10.10.18.103/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "起始页(空)",
+    "link": ""
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "信息中心",
+    "link": "http://10.10.18.103:12345"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "今日热榜(空)",
+    "link": ""
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "站点监测(空)",
+    "link": ""
   }
 ]
